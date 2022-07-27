@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="[https://github.com/Darkflame72/asyncpixel/releases](https://www.python.org/)">
+  <a href="https://www.python.org/">
     <img alt="Made With Python" src="https://forthebadge.com/images/badges/made-with-python.svg">
   </a>
 </p>
